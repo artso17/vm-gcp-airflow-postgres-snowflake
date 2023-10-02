@@ -15,5 +15,3 @@ The project aim to build ETL Data pipeline with Airflow as Orchestrator or Sched
 - Create Airflow scheduler using Bash Operator to run script with name `aditya_dag.py`
 - Running on Mentor's VM Google Cloud Platform - *The Server maybe down*
 - Grade 100/100 from Mentor
-
-
