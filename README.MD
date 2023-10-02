@@ -2,7 +2,7 @@
 
 ## Project Brief
 The project aim to build ETL Data pipeline with Airflow as Orchestrator or Scheduler service, Postgres as Data Source, and Snowflake Cloud as Data Warehouse. The Project build on Virtual Machine (vm) provided by Google Cloud Platform.
-file:///home/aditya/Downloads/Blank%20diagram.png
+![Blank diagram](https://github.com/artso17/vm-gcp-airflow-postgres-snowflake/assets/78079780/bea0e9e4-4842-4263-990d-0f0b7eca11b6)
 
 ## Success Criteria
 - Create Extract and Load to Snowflake Data Warehouse script with format name `[name]_etl1.py`
